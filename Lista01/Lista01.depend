@@ -1,0 +1,192 @@
+# depslib dependency file v1.0
+1682115278 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"questao01.h"
+	"questao02.h"
+	"questao03.h"
+	"questao04.h"
+	"questao05.h"
+	"questao06.h"
+	"questao07.h"
+	"questao08.h"
+	"questao09.h"
+	"questao10.h"
+	"questao11.h"
+	"questao12.h"
+	"questao13.h"
+	"questao14.h"
+	"questao15.h"
+	"questao16.h"
+	"questao17.h"
+	"questao18.h"
+	"questao19.h"
+	"questao20.h"
+	"questao21.h"
+	"questao22.h"
+	"questao23.h"
+	"questao24.h"
+
+1681585321 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao01.h
+
+1681586092 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao02.h
+
+1681586092 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao01.c
+	<stdio.h>
+	<stdlib.h>
+	"questao01.h"
+
+1681931782 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao02.c
+	<stdio.h>
+	<stdlib.h>
+	"questao02.h"
+
+1681931782 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao03.c
+	<stdio.h>
+	<stdlib.h>
+	"questao03.h"
+
+1681586939 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao03.h
+
+1681587838 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao04.h
+
+1681928040 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao05.h
+
+1681931782 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao04.c
+	<stdio.h>
+	<stdlib.h>
+	"questao04.h"
+
+1681931782 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao05.c
+	<stdio.h>
+	<stdlib.h>
+	"questao05.h"
+
+1681928659 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao06.h
+
+1681931782 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao06.c
+	<stdio.h>
+	<stdlib.h>
+	"questao06.h"
+
+1681928927 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao07.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"questao07.h"
+
+1681928927 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao07.h
+
+1681929134 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao08.c
+	<stdio.h>
+	<stdlib.h>
+	"questao08.h"
+
+1681929134 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao08.h
+
+1681929370 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao09.h
+
+1681929420 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao09.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"questao09.h"
+
+1681929662 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao10.h
+
+1681929662 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao10.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
+1681930410 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao11.h
+
+1681931782 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao11.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1681931782 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao12.h
+
+1681932181 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao12.c
+	<stdio.h>
+	"questao12.h"
+
+1681933456 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao13.h
+
+1681933456 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao13.c
+	<stdio.h>
+	"questao13.h"
+
+1681934019 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao14.h
+
+1681934099 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao14.c
+	<stdio.h>
+	"questao14.h"
+
+1681935090 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao15.c
+	<stdio.h>
+	"questao15.h"
+
+1681935082 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao15.h
+
+1681935670 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao16.h
+
+1682016086 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao16.c
+	<stdio.h>
+	"questao16.h"
+
+1682016086 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao17.c
+	<stdio.h>
+	"questao17.h"
+
+1682016111 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao18.c
+	<stdio.h>
+	"questao18.h"
+
+1682023642 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao19.c
+	<string.h>
+	<stdio.h>
+	"questao19.h"
+
+1682022794 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao20.c
+	<stdio.h>
+	<stdbool.h>
+	"questao20.h"
+
+1681935669 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao17.h
+
+1681935669 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao18.h
+
+1681935668 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao19.h
+
+1681935666 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao20.h
+
+1682024974 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao21.h
+
+1682025379 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao21.c
+	<stdio.h>
+	"questao21.h"
+
+1682117100 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao23.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"questao23.h"
+
+1682114598 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao24.c
+	<stdio.h>
+	<stdlib.h>
+	"questao24.h"
+
+1682025741 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao22.h
+
+1682045488 source:c:\users\diego\onedrive\documentos\ponteiros\lista01\questao22.c
+	<stdio.h>
+	"questao22.h"
+
+1682025739 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao23.h
+
+1682025737 c:\users\diego\onedrive\documentos\ponteiros\lista01\questao24.h
+
